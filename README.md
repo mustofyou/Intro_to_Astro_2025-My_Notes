@@ -47,3 +47,5 @@
 | **JWST (James Webb Space Telescope)** | Yüksek hassasiyetli kızılötesi teleskop. | Atmosfer bileşimi tespit edebilir. |
 | **ADS (Astrophysics Data System)** | Astronomi makale arama motoru. | Literatür taraması için en güvenilir kaynak. |
 | **arXiv** | Ön baskı (preprint) bilimsel makale arşivi. | Güncel araştırmaları hızlıca takip etmek için. |
+| **Transmission Spectroscopy** | Bir gezegen yıldızının önünden geçerken yıldız ışığının atmosferden süzülmesiyle oluşan tayfın incelenmesi. | Atmosferde su, metan, karbondioksit gibi moleküllerin varlığı bu yöntemle tespit edilir. |
+
